@@ -10,7 +10,7 @@
 `virtualenv nome_do_ambiente`
 
 ### CLONAR O PROJETO DENTRO DO AMBINETE VIRTUAL CRIADO (USAR O GIT BASH)
-`git clone https://github.com/JonesQuito/projetos_web_django.git`
+`git clone https://github.com/pedrokarneiro/GestorBases.git`
 
 ### INSTALAR AS BIBLIOTECAS REQUERIDAS PARA O PROJETO
 (de dentro da pasta clonada executar) `pip install -r requirements.txt`
